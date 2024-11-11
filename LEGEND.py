@@ -53,7 +53,7 @@ async def attack(update: Update, context: CallbackContext):
 
     ip, port, duration = args
     await context.bot.send_message(chat_id=chat_id, text=( 
-        f"*⚔️ Attack By @ROYxOWNER! ⚔️*\n"
+        f"*⚔️ Attack By @INDIAN_OWNER75! ⚔️*\n"
         f"*🎯 Target: {ip}:{port}*\n"
         f"*🕒 Duration: {duration} seconds*\n"
         f"*🔥 Let the battlefield ignite! 💥*"
